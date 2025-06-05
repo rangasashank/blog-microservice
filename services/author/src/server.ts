@@ -17,7 +17,7 @@ cloudinary.config({
 const app = express();
 app.use(express.json());
 const corsOptions = {
-  origin: 'http://localhost:3000', // Allow requests from this specific origin
+  origin: ["http://localhost:3000", "blog-microservice.vercel.app"], // Allow requests from this specific origin
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'], // Allowed HTTP methods
   allowedHeaders: ['Content-Type', 'Authorization'], // Allowed request headers
   credentials: true // Allow cookies and authentication headers to be sent
