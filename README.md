@@ -1,4 +1,4 @@
-# 📰 Real-World Blog App: Microservices & Event-Driven Architecture
+# 📰 Reading Retreat - Real-World Blog App: Microservices & Event-Driven Architecture
 
 A sophisticated, production-grade blog application meticulously crafted with a **microservices architecture**. This project leverages cutting-edge technologies for scalability, performance, and developer experience, enhanced with **AI-powered content assistance**. It's a comprehensive demonstration of **inter-service communication**, **robust caching**, **diverse data storage**, **secure authentication**, and **streamlined cloud deployment**.
 
